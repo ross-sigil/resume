@@ -143,14 +143,37 @@
     </v-row>
 
     <v-row justify="center">
-      <div class="pi">
-        <pre class="my"></pre>
+      <div class="lbl">
+        <pre class="my" style="line-height: 1.2em">
+┌────────────────────────────────────────────────────────────────────────────────┐ 
+││        ___ _                                                                        _ ___    ││
+││        ╲__╲╲╲ ╲─────────────────  E X P E R I E N C E  ─────────────────╱ ╱╱╱__╱    ││
+││                                                                                              ││
+││  + Lots of low wage work.                                                                    ││
+││                                                                                              ││
+││    -> I work with a team towards a common, well communicated and understood goal well.       ││
+││       I've done factory work, ive worked in a record store, i've served restauraunts.        ││
+││       The focus has never changed, listen to people and get them what they want.             ││
+││                                                                                              ││
+││                                                                                              ││
+││  + Internship - W.W. Wood Inc.     ( 2019 - Present )                                        ││
+││                                                                                              ││
+││    -> Named lead developer on multiple internal projects. Have worked on webapps that        ││
+││       required the construction of a REST API to consume data from the company               ││
+││        SQL server. Have created algorithms to pair datas that had few common elements.       ││
+││        Have worked on WPF and WinForms for ordering software.                                ││
+││                                                                                              ││
+└────────────────────────────────────────────────────────────────────────────────┘
+          
+          
+        </pre>
       </div>
     </v-row>
+  </v-container>
+</template>
+<!-- organize things by when i started learning and when i started getting paid to do it -->
 
-    <!-- organize things by when i started learning and when i started getting paid to do it -->
-
-    <!-- 
+<!-- 
 
       Languages:
 
@@ -164,9 +187,6 @@
       Solidity      2021
 
 
-      A pile of retail jobs:
-        I work with a team towards a common, well communicated and understood goal well. I've done factory work, and found myself to much prefer programming.
-
       College Works:
         President of AIX (AI Ext) helped explore solutions with using drones to analyze soybean fields using color as a metric for hydration. Other roles for this were communication and orgnizational ability.
         
@@ -175,6 +195,9 @@
           These tokens represent risk and the more a user has the greater their risk, they then use an exponential decay funtion as the user is progressively healed.
           We could generate a contact tree and organize that tree by risk.
 
+
+      A pile of retail jobs:
+        I work with a team towards a common, well communicated and understood goal well. I've done factory work, ive worked in a record store, i've served restauraunts. The focus has never changed, listen to people and get them what they want.
 
       Intership"
       W.W. Wood (2019 - Present)
@@ -189,16 +212,6 @@
 
 
      -->
-
-    <v-row justify="center">
-      <p class="pre">I do code</p>
-    </v-row>
-
-    <v-row justify="center">
-      <p class="pre" style="color: #f0c674">previous work</p>
-    </v-row>
-  </v-container>
-</template>
 
 <style scoped>
 @font-face {
