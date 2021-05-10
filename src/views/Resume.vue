@@ -8,27 +8,22 @@
         />
       </v-row> -->
 
-    <v-row justify="center">
-      <v-card class="my" style="color: #8df28a">
-        <pre>
-          PUT SOME PADDING UP TOP LOL
-        </pre>
-      </v-card>
-    </v-row>
-
-    <!-- so you may have found out this is an image and not ascii. 
-        this is not for lack of effort
-        turns out vue really hates preserving whitespace. 
-        see /assets/aPreviousAttempt.png for what the code looked like though
-     -->
-
-    <v-row justify="center">
+    <v-row justify="center" style="padding: 2em">
       <v-img
         :src="require('../assets/hireme.png')"
         max-width="620"
         height="179"
       />
     </v-row>
+
+    <!-- so you may have found out this is an image and not ascii. 
+         congrats, i'm completely exposed on this one. this is not for lack of effort
+         turns out vue really hates preserving whitespace with some of this stuff 
+         see /assets/aPreviousAttempt.png for what the code looked like though.
+         
+         yes, there was a programatic solution, but i could use a job
+         the problem did get solved though!
+     -->
 
     <v-row justify="center">
       <v-card class="my" style="color: #8df28a"> </v-card>
@@ -124,9 +119,9 @@
 |                                                                                                              |
 | -> Significant Work                                                                                          |
 |     ::                                                                                                       |
-|     :: Worked to analyze soybean fields for (INSERT CLIENT). Drone images were taken and analyzed with       |
-|     :: <span class="gr">machine learning</span> techniques. The <span class="rainbow-text">color</span> of the soybeans would determine if <span class="bl">irrigation</span> was needed       |
-|     ::                                                                                                       |
+|     :: Worked to analyze soybean fields for Mizzou Agricultural Center. With Dr. Wei Dai and others          |
+|     :: Drone images were taken and analyzed with <span class="gr">machine learning</span> techniques. The <span class="rainbow-text">color</span> of the soybeans      |
+|     :: would determine if <span class="bl">irrigation</span> was needed                                                              |
 |     ::                                                                                                       |
 |     :: Developed a <span class="gr">blockchain</span> as a research project as a contact tracer for <span class="re">COVID-19</span>. Our service            |
 |     :: would run in the background of a users device, if two users came within a set proxmitiy of one        |
@@ -134,7 +129,7 @@
 |     :: a user had then their risk would be increased. Exponential decay models were then used to represent   |
 |     :: the user <span class="gr">healing</span>. A tree structure could be generated from these results to see the spread of a       |
 |     :: of a virus upon a population. This project is still in deveopment.                                    |
-|                                                                                                              |
+|     ::                                                                                                       |
 :                                                                                                              :
 :______________________________________________________________________________________________________________:
 
@@ -147,21 +142,21 @@
         <pre class="my" style="line-height: 1.2em">
 ┌────────────────────────────────────────────────────────────────────────────────┐ 
 ││        ___ _                                                                        _ ___    ││
-││        ╲__╲╲╲ ╲─────────────────  E X P E R I E N C E  ─────────────────╱ ╱╱╱__╱    ││
+││        ╲__╲╲╲ ╲─────────────────  <span class="ye">E X P E R I E N C E</span>  ─────────────────╱ ╱╱╱__╱    ││
 ││                                                                                              ││
-││  + Lots of low wage work.                                                                    ││
+││  + <span class="re">Lots of low wage work.</span>                                                                    ││
 ││                                                                                              ││
 ││    -> I work with a team towards a common, well communicated and understood goal well.       ││
-││       I've done factory work, ive worked in a record store, i've served restauraunts.        ││
+││       I've done factory work, I've worked in a record store, I've served restauraunts.       ││
 ││       The focus has never changed, listen to people and get them what they want.             ││
 ││                                                                                              ││
 ││                                                                                              ││
-││  + Internship - W.W. Wood Inc.     ( 2019 - Present )                                        ││
+││  + <span class="gr">Internship - W.W. Wood Inc.</span>     ( 2019 - Present )                                        ││
 ││                                                                                              ││
-││    -> Named lead developer on multiple internal projects. Have worked on webapps that        ││
+││    -> Named <span class="gr">lead developer</span> on multiple internal projects. Have worked on webapps that        ││
 ││       required the construction of a REST API to consume data from the company               ││
-││        SQL server. Have created algorithms to pair datas that had few common elements.       ││
-││        Have worked on WPF and WinForms for ordering software.                                ││
+││       SQL server. Have created algorithms to pair datas that had few common elements.        ││
+││       Have worked on WPF and WinForms for ordering software.                                 ││
 ││                                                                                              ││
 └────────────────────────────────────────────────────────────────────────────────┘
           
