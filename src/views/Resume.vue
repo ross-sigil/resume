@@ -113,7 +113,7 @@
 |     ::                                                                                                       |
 |     :: 3.67 Major GPA                                                                                        |
 |     ::                                                                                                       |
-|     :: President of the AIX (Artifical Intelligence eXtension) Club 2019                                     |
+|     :: President of the AIX (Artifical Intelligence eXtension) Club 2019-2020                                |
 |     ::                                                                                                       |
 |                                                                                                              |
 |                                                                                                              |
@@ -151,6 +151,7 @@
 ││       The focus has never changed, listen to people and get them what they want.             ││
 ││                                                                                              ││
 ││                                                                                              ││
+││                                                                                              ││
 ││  + <span class="gr">Internship - W.W. Wood Inc.</span>     ( 2019 - Present )                                        ││
 ││                                                                                              ││
 ││    -> Named <span class="gr">lead developer</span> on multiple internal projects. Have worked on webapps that        ││
@@ -159,11 +160,45 @@
 ││       Have worked on WPF and WinForms for ordering software.                                 ││
 ││                                                                                              ││
 └────────────────────────────────────────────────────────────────────────────────┘
-          
+        </pre>
+      </div>
+    </v-row>
+
+
+    <v-row justify="center">
+      <div class="lgr">
+        <pre class="my" style="line-height: 1.2em">
+ _   _           _          ___                          _ _         
+| |_| |_ ___ ___| |_ ___   |  _|___ ___    ___ ___ ___ _| |_|___ ___ 
+|  _|   | .'|   | '_|_ -|  |  _| . |  _|  |  _| -_| .'| . | |   | . |
+|_| |_|_|__,|_|_|_,_|___|  |_| |___|_|    |_| |___|__,|___|_|_|_|_  |
+                                                                |___|
+        </pre>
+      </div>
+    </v-row>
+
+    <v-row justify="center">
+      <div class="pi">
+        <pre class="my" style="line-height: 1.2em">
+For your patience here's an <span class="rainbow-text">easter egg</span>.
+You've seen <span class="pr">dark</span> and <span class="ik">light</span> mode before.
+        But never like <span class="re">this</span>.
+        </pre>
+      </div>
+    </v-row>
+
+
+
+<!-- dont fill me in, just a placeholder for the elements im making this page out of -->
+    <v-row justify="center">
+      <div class="lbl">
+        <pre class="my" style="line-height: 1.2em">
           
         </pre>
       </div>
     </v-row>
+
+
   </v-container>
 </template>
 <!-- organize things by when i started learning and when i started getting paid to do it -->
@@ -172,7 +207,7 @@
 
       Languages:
 
-      Python        2017
+      Python        2016
       Java          2018
       C++           2018
       C#            2019
@@ -242,7 +277,7 @@
 }
 
 .lbl {
-  color: #aec5f1;
+  color: #6ee5e9;
 }
 
 .or {

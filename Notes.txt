@@ -1,2 +1,4 @@
 npm run deploy to send site to gh pages I think
 https://blog.logrocket.com/build-deploy-vue-js-app-github-pages/
+
+uncomment gh-pages-deploy.js too, thats important.
