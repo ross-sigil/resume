@@ -1,5 +1,6 @@
 module.exports = {
   transpileDependencies: ["vuetify"],
+  publicPath: "/resume/",
   // chainWebpack: config => {
   //   config.module
   //     .rule('vue')

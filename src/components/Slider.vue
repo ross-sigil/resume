@@ -32,20 +32,6 @@ export default Vue.extend({
         "appBack",
         colorizer(this.$store.state.defaultApp, this.$store.state.sliderPercent)
       );
-      this.$store.commit(
-        "linkBack",
-        colorizer(
-          this.$store.state.defaultLink,
-          this.$store.state.sliderPercent
-        )
-      );
-      this.$store.commit(
-        "tickerBack",
-        colorizer(
-          this.$store.state.defaultTicker,
-          this.$store.state.sliderPercent
-        )
-      );
     },
   },
 });
