@@ -22,3 +22,46 @@
  _______________________________________________________________________________
 /// Exploits ///////////////////////////////////////////////////////////////////
 ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+      Vue           2019
+      HTML          2019
+      CSS           2019
+      SQL           2019
+      WPF           2020
+      WinForms      2020
+      RDLC Wizardry 2020
+
+  Developed a blockchain as a research project as a contact tracer for COVID-19. 
+          The idea was that the service would run in the background and if another user came within a proximity determined by gps a token would be generated and transfered from each user.
+          These tokens represent risk and the more a user has the greater their risk, they then use an exponential decay funtion as the user is progressively healed.
+          We could generate a contact tree and organize that tree by risk.
+
+
+
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+█┌─────────────────────────────────────────────────────────────────────────── ─∙··· █ 
+█│                                                                                 │█ 
+█:                                                                                 :█ 
+█│   ██    ██ ███    ██ ██ ██    ██ ███████ ██████  ███████ ██ ████████ ██    ██   │█ 
+█:   ██    ██ ████   ██ ██ ██    ██ ██      ██   ██ ██      ██    ██     ██  ██    :█ 
+█│   ██    ██ ██ ██  ██ ██ ██    ██ █████   ██████  ███████ ██    ██      ████     │█ 
+█:   ██    ██ ██  ██ ██ ██  ██  ██  ██      ██   ██      ██ ██    ██       ██      :█ 
+█│    ██████  ██   ████ ██   ████   ███████ ██   ██ ███████ ██    ██       ██      │█ 
+█:                                                                                 :█
+█│                                                                                 │█ 
+█:    Graduated Southeast Missouri State University        2021                    :█ 
+█│                                                                                 │█ 
+█:  YouTube loses advertisers over "wormhole into pedophilia ring"                 :█ 
+█│                                                                                 │█ 
+█:  Adobe patches the same critical Reader flaw twice in one week                  :█ 
+█│                                                                                 │█ 
+█:  Microsoft Edge lets Facebook run Flash code behind users' backs                :█ 
+█│                                                                                 │█ 
+█:  K2 claims victory over zero-day attacks                                        :█ 
+█│                                                                             │█ 
+█:  New BabyShark Malware Targets U.S. National Security Think Tanks           :█ 
+█│                                                                             │█ 
+█:  New browser attack lets hackers run bad code even after users leave        :█ 
+█│  a web page                                                                 │█ 
+█ ···∙─ ──────────────────────────────────────────────────────────────────   ──┘█ 
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀   ▀▀▀▀

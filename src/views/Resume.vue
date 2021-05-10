@@ -10,7 +10,9 @@
 
     <v-row justify="center">
       <v-card class="my" style="color: #8df28a">
-        <pre></pre>
+        <pre>
+          PUT SOME PADDING UP TOP LOL
+        </pre>
       </v-card>
     </v-row>
 
@@ -73,20 +75,76 @@
     </v-row>
 
     <v-row justify="center">
-      <div class="ye">
+      <div class="pi">
         <pre class="my" style="line-height: 1.2em">
-        
- _______________________________________________________________________________
-/// <span class="pr">TOOLS</span> //////////////////////////////////////////////////////////////////////
-¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ __________________________________________________________________________ _ __  _
+/// <span class="ye">TOOLS</span> ///////////////////////////////////////////////////////////
+<span class="ye">¯¯+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯ ¯¯  ¯ ¯   ¯
+  |
+  |                                <span class="lpr">Vue</span>        <span class="lpr">2019</span>
+  |
+  |                               <span class="lpr">HTML</span>        <span class="lpr">2019</span>
+  |
+  |                                <span class="lbl">CSS</span>        <span class="lbl">2019</span>
+  |
+  |                                <span class="bl">SQL</span>        <span class="bl">2019</span>
+  |
+  |                                <span class="lgr">WPF</span>        <span class="lgr">2019</span>
+  |
+  |                           <span class="ye">WinForms</span>        <span class="ye">2019</span>
+  |
+  |                      <span class="lre">RDLC Wizardry</span>        <span class="lre">2019</span>
+  |
+   \_______________________________________________________________________
+
+</span>
+      </pre>
+      </div>
+    </v-row>
+
+    <v-row justify="center">
+      <div class="lre">
+        <pre class="my" style="line-height: 1.2em">
+ ______________________________________________________________________________________________________________ 
+|   .-------------.   //===================================================================================\\__|
+|__/  <span class="re">UNIVERSITY</span>   \_//                                                                                        |
+|                                                                                                              |
+| Southeast Missouri State University      GRADUATED 2021                                                      |
+|                                                                                                              |
+| BS Computer Science                                                                                          |
+|                                                                                                              |
+|                                                                                                              |
+| -> Accomplishments                                                                                           |
+|     ::                                                                                                       |
+|     :: 3.67 Major GPA                                                                                        |
+|     ::                                                                                                       |
+|     :: President of the AIX (Artifical Intelligence eXtension) Club 2019                                     |
+|     ::                                                                                                       |
+|                                                                                                              |
+|                                                                                                              |
+| -> Significant Work                                                                                          |
+|     ::                                                                                                       |
+|     :: Worked to analyze soybean fields for (INSERT CLIENT). Drone images were taken and analyzed with       |
+|     :: <span class="gr">machine learning</span> techniques. The <span class="rainbow-text">color</span> of the soybeans would determine if <span class="bl">irrigation</span> was needed       |
+|     ::                                                                                                       |
+|     ::                                                                                                       |
+|     :: Developed a <span class="gr">blockchain</span> as a research project as a contact tracer for <span class="re">COVID-19</span>. Our service            |
+|     :: would run in the background of a users device, if two users came within a set proxmitiy of one        |
+|     :: another a token would be generated and transfered to each user. The greater number of tokens          |
+|     :: a user had then their risk would be increased. Exponential decay models were then used to represent   |
+|     :: the user <span class="gr">healing</span>. A tree structure could be generated from these results to see the spread of a       |
+|     :: of a virus upon a population. This project is still in deveopment.                                    |
+|                                                                                                              |
+:                                                                                                              :
+:______________________________________________________________________________________________________________:
 
       </pre>
       </div>
     </v-row>
 
     <v-row justify="center">
-      <div class="ye">
-        <pre class="my" style="line-height: 1.2em"></pre>
+      <div class="pi">
+        <pre class="my"></pre>
       </div>
     </v-row>
 
@@ -104,13 +162,6 @@
       Visual Basic  2020
       C             2020
       Solidity      2021
-
-      Vue           2019
-      HTML          2019
-      CSS           2019
-      SQL           2019
-      WPF/WinForms  2020
-      RDLC Wizardry 2020
 
 
       A pile of retail jobs:
@@ -159,6 +210,25 @@
   font-family: "TopazPlus", "Lucida Console", monospace, Monaco;
 }
 
+.rainbow-text {
+  background-image: linear-gradient(
+    to left,
+    violet,
+    #ce33f6,
+    #64e0e0,
+    green,
+    yellow,
+    orange,
+    red
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.re {
+  color: #c90c54;
+}
+
 .bl {
   color: #64e0e0;
 }
@@ -195,6 +265,9 @@
   color: #f8b8b3;
 }
 
+.pi {
+  color: #fc92de;
+}
 .ye {
   color: #f7fdaf;
 }
