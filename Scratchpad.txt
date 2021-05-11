@@ -65,3 +65,20 @@
 █│  a web page                                                                 │█ 
 █ ···∙─ ──────────────────────────────────────────────────────────────────   ──┘█ 
 ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀   ▀▀▀▀
+
+
+    <v-row justify="center">
+      <div>
+        <pre>
+ __    __  __                              __       __             __ 
+|  \  |  \|  \                            |  \     /  \           |  \
+| <span class="or">₿₿</span>  | <span class="or">₿₿</span> \<span class="or">₿₿</span>  ______     ______        | <span class="or">₿₿</span>\   /  <span class="or">₿₿</span>  ______   | <span class="or">₿₿</span>
+| <span class="or">₿₿</span>__| <span class="or">₿₿</span>|  \ /      \   /       \      | <span class="or">₿₿₿</span>\ /  <span class="or">₿₿₿</span> /      \  | <span class="or">₿₿</span>
+| <span class="or">₿₿</span>    <span class="or">₿₿</span>| <span class="or">₿₿</span>|  <span class="or">₿₿₿₿₿₿</span>\|  <span class="or">₿₿₿₿₿₿</span>\     | <span class="or">₿₿₿₿</span>\  <span class="or">₿₿₿₿</span>|  <span class="or">₿₿₿₿₿₿</span>\| <span class="or">₿₿</span>
+| <span class="or">₿₿₿₿₿₿₿</span> | <span class="or">₿₿</span>| <span class="or">₿₿</span>   \<span class="or">₿₿</span>| <span class="or">₿₿</span>    <span class="or">₿₿</span>     | <span class="or">₿₿</span>\<span class="or">₿₿</span> <span class="or">₿₿</span> <span class="or">₿₿</span>| <span class="or">₿₿</span>    <span class="or">₿₿</span> \<span class="or">₿₿</span>
+| <span class="or">₿₿</span>  | <span class="or">₿₿</span>| <span class="or">₿₿</span>| <span class="or">₿₿</span>       | <span class="or">₿₿₿₿₿₿₿₿</span>    | <span class="or">₿₿</span> \<span class="or">₿₿₿</span>| <span class="or">₿₿</span>| <span class="or">₿₿₿₿₿₿₿₿</span> __ 
+| <span class="or">₿₿</span>  | <span class="or">₿₿</span>| <span class="or">₿₿</span>| <span class="or">₿₿</span>        \<span class="or">₿₿</span>     \     | <span class="or">₿₿</span>  \<span class="or">₿</span> | <span class="or">₿₿</span> \<span class="or">₿₿</span>      \|  \
+ \<span class="or">₿₿</span>   \<span class="or">₿₿</span> \<span class="or">₿₿</span> \<span class="or">₿₿</span>         \<span class="or">₿₿₿₿₿₿₿</span>     \<span class="or">₿₿</span>      \<span class="or">₿₿</span>  \<span class="or">₿₿₿₿₿₿₿</span> \<span class="or">₿₿</span>
+        </pre>
+      </div>
+    </v-row>
