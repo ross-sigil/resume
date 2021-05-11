@@ -7,14 +7,14 @@
           height="456"
         />
       </v-row> -->
-
+    <!-- 
     <v-row justify="center" style="padding: 2em">
       <v-img
         :src="require('../assets/hireme.png')"
         max-width="620"
         height="179"
       />
-    </v-row>
+    </v-row> -->
 
     <!-- so you may have found out this is an image and not ascii. 
          congrats, i'm completely exposed on this one. this is not for lack of effort
@@ -26,7 +26,19 @@
      -->
 
     <v-row justify="center">
-      <v-card class="my" style="color: #8df28a"> </v-card>
+      <div>
+        <pre>
+ __    __  __                              __       __             __ 
+|  \  |  \|  \                            |  \     /  \           |  \
+| <span class="or">₿₿</span>  | <span class="or">₿₿</span> \<span class="or">₿₿</span>  ______     ______        | <span class="or">₿₿</span>\   /  <span class="or">₿₿</span>  ______   | <span class="or">₿₿</span>
+| <span class="or">₿₿</span>__| <span class="or">₿₿</span>|  \ /      \   /       \      | <span class="or">₿₿₿</span>\ /  <span class="or">₿₿₿</span> /      \  | <span class="or">₿₿</span>
+| <span class="or">₿₿</span>    <span class="or">₿₿</span>| <span class="or">₿₿</span>|  <span class="or">₿₿₿₿₿₿</span>\|  <span class="or">₿₿₿₿₿₿</span>\     | <span class="or">₿₿₿₿</span>\  <span class="or">₿₿₿₿</span>|  <span class="or">₿₿₿₿₿₿</span>\| <span class="or">₿₿</span>
+| <span class="or">₿₿₿₿₿₿₿</span> | <span class="or">₿₿</span>| <span class="or">₿₿</span>   \<span class="or">₿₿</span>| <span class="or">₿₿</span>    <span class="or">₿₿</span>     | <span class="or">₿₿</span>\<span class="or">₿₿</span> <span class="or">₿₿</span> <span class="or">₿₿</span>| <span class="or">₿₿</span>    <span class="or">₿₿</span> \<span class="or">₿₿</span>
+| <span class="or">₿₿</span>  | <span class="or">₿₿</span>| <span class="or">₿₿</span>| <span class="or">₿₿</span>       | <span class="or">₿₿₿₿₿₿₿₿</span>    | <span class="or">₿₿</span> \<span class="or">₿₿₿</span>| <span class="or">₿₿</span>| <span class="or">₿₿₿₿₿₿₿₿</span> __ 
+| <span class="or">₿₿</span>  | <span class="or">₿₿</span>| <span class="or">₿₿</span>| <span class="or">₿₿</span>        \<span class="or">₿₿</span>     \     | <span class="or">₿₿</span>  \<span class="or">₿</span> | <span class="or">₿₿</span> \<span class="or">₿₿</span>      \|  \
+ \<span class="or">₿₿</span>   \<span class="or">₿₿</span> \<span class="or">₿₿</span> \<span class="or">₿₿</span>         \<span class="or">₿₿₿₿₿₿₿</span>     \<span class="or">₿₿</span>      \<span class="or">₿₿</span>  \<span class="or">₿₿₿₿₿₿₿</span> \<span class="or">₿₿</span>
+        </pre>
+      </div>
     </v-row>
 
     <v-row justify="center">
