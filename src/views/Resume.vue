@@ -11,26 +11,23 @@
     <v-row justify="center" style="padding: 2em">
       <v-img
         :src="require('../assets/hireme.png')"
-        max-width="620"
-        height="179"
+        max-width="690"
+        height="188"
       />
     </v-row>
 
-    <!-- so you may have found out this is an image and not ascii. 
-         congrats, i'm completely exposed on this one. this is not for lack of effort
-         turns out vue really hates preserving whitespace with some of this stuff 
-         see /assets/aPreviousAttempt.png for what the code looked like though.
+    <!-- so you may have found out this is an image and not text. 
+         congrats, i'm completely exposed on this one.
          
-         yes, there was a programatic solution, but i could use a job
-         the problem did get solved though!
+         this is not for lack of effort
+         turns out finding a monospace font with a bitcoin symbol in ttf that 
+         will work with most browsers and display this right does not work out well.
+         see Scratchpad.txt for what the code looked like though for a laugh.
      -->
 
     <v-row justify="center">
       <div class="ik">
         <pre class="my" style="line-height: 1em">
-        
-
-        
 /====================-<span style="color:#6be41f;">LANGUAGES</span>-====================\
 |                                                   |
 |                                                   |
@@ -51,9 +48,6 @@
 |              <span class="lre">Solidity</span>        <span class="lre">2021</span>                 |
 |                                                   |
 \===================================================/
-
-
-
       </pre>
       </div>
     </v-row>
@@ -82,7 +76,6 @@
   |                      <span class="lre">RDLC Wizardry</span>        <span class="lre">2019</span>
   |
    \_______________________________________________________________________
-
 </span>
       </pre>
       </div>
@@ -123,7 +116,6 @@
 |     <span class="ik">::</span>                                                                                                       |
 :                                                                                                              :
 :______________________________________________________________________________________________________________:
-
       </pre>
       </div>
     </v-row>
@@ -185,7 +177,6 @@
 |<span class="re">\\</span>|            textmode aesthetics are my jam.                             |<span class="re">\\</span>|
 +--|                                                                        |--+
    +================================================================= <span class="lgr">DOX</span> ==+
-
         </pre>
       </div>
     </v-row>
