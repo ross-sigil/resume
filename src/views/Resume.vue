@@ -31,7 +31,7 @@
 
     <v-row justify="center">
       <div class="ik">
-        <pre class="my" style="line-height: 0.7em">
+        <pre class="my" style="line-height: 1em">
         
 
         
@@ -40,24 +40,17 @@
 |                                                   |
 |                <span class="lpr">Python</span>        <span class="lpr">2017</span>                 |
 |                                                   |
-|                                                   |
 |                  <span class="lpr">Java</span>        <span class="lpr">2018</span>                 |
-|                                                   |
 |                                                   |
 |                   <span class="lbl">C++</span>        <span class="lbl">2018</span>                 |
 |                                                   |
-|                                                   |
 |                    <span class="bl">C#</span>        <span class="bl">2019</span>                 |
-|                                                   |
 |                                                   |
 |            <span class="lgr">TypeScript</span>        <span class="lgr">2019</span>                 |
 |                                                   |
-|                                                   |
 |          <span class="ye">Visual Basic</span>        <span class="ye">2020</span>                 | <!--   please dont make me do visual basic -->
 |                                                   |
-|                                                   |
 |                     <span class="lre">C</span>        <span class="lre">2020</span>                 |
-|                                                   |
 |                                                   |
 |              <span class="lre">Solidity</span>        <span class="lre">2021</span>                 |
 |                                                   |
@@ -73,7 +66,7 @@
 
     <v-row justify="center">
       <div class="pi">
-        <pre class="my" style="line-height: 1.2em">
+        <pre class="my" style="line-height: 1em">
  __________________________________________________________________________ _ __  _
 /// <span class="ye">TOOLS</span> ///////////////////////////////////////////////////////////
 <span class="ye">¯¯+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯ ¯¯  ¯ ¯   ¯
@@ -100,38 +93,38 @@
     </v-row>
 
     <v-row justify="center">
-      <div class="lre">
-        <pre class="my" style="line-height: 1.2em">
+      <div class="ye">
+        <pre class="my" style="line-height: 1.2">
  ______________________________________________________________________________________________________________ 
 |   .-------------.   //===================================================================================\\__|
-|__/  <span class="re">UNIVERSITY</span>   \_//                                                                                        |
+|__/  <span class="lre">UNIVERSITY</span>   \_//                                                                                        |
 |                                                                                                              |
-| Southeast Missouri State University      GRADUATED 2021                                                      |
+| <span class="gr">Southeast Missouri State University</span>      <span class="pi">GRADUATED 2021</span>                                                      |
 |                                                                                                              |
-| BS Computer Science                                                                                          |
-|                                                                                                              |
-|                                                                                                              |
-| -> Accomplishments                                                                                           |
-|     ::                                                                                                       |
-|     :: 3.67 Major GPA                                                                                        |
-|     ::                                                                                                       |
-|     :: President of the AIX (Artifical Intelligence eXtension) Club 2019-2020                                |
-|     ::                                                                                                       |
+| <span class="ik">BS Computer Science</span>                                                                                          |
 |                                                                                                              |
 |                                                                                                              |
-| -> Significant Work                                                                                          |
-|     ::                                                                                                       |
-|     :: Worked to analyze soybean fields for Mizzou Agricultural Center. With Dr. Wei Dai and others          |
-|     :: Drone images were taken and analyzed with <span class="gr">machine learning</span> techniques. The <span class="rainbow-text">color</span> of the soybeans      |
-|     :: would determine if <span class="bl">irrigation</span> was needed                                                              |
-|     ::                                                                                                       |
-|     :: Developed a <span class="gr">blockchain</span> as a research project as a contact tracer for <span class="re">COVID-19</span>. Our service            |
-|     :: would run in the background of a users device, if two users came within a set proxmitiy of one        |
-|     :: another a token would be generated and transfered to each user. The greater number of tokens          |
-|     :: a user had then their risk would be increased. Exponential decay models were then used to represent   |
-|     :: the user <span class="gr">healing</span>. A tree structure could be generated from these results to see the spread of a       |
-|     :: of a virus upon a population. This project is still in deveopment.                                    |
-|     ::                                                                                                       |
+| -> <span class="lgr">Accomplishments</span>                                                                                           |
+|     <span class="ik">::</span>                                                                                                       |
+|     <span class="ik">::</span> 3.67 Major GPA                                                                                        |
+|     <span class="ik">::</span>                                                                                                       |
+|     <span class="ik">::</span> President of the AIX (Artifical Intelligence eXtension) Club 2019-2020                                |
+|     <span class="ik">::</span>                                                                                                       |
+|                                                                                                              |
+|                                                                                                              |
+| -> <span class="lgr">Significant Work</span>                                                                                          |
+|     <span class="ik">::</span>                                                                                                       |
+|     <span class="ik">::</span> Worked to analyze soybean fields for Mizzou Agricultural Center with Dr. Wei Dai and others.          |
+|     <span class="ik">::</span> Images were taken with drones and analyzed with <span class="gr">machine learning</span> techniques. The <span class="rainbow-text">color</span> of the         |
+|     <span class="ik">::</span> soybeans would determine if <span class="bl">irrigation</span> was needed.                                                    |
+|     <span class="ik">::</span>                                                                                                       |
+|     <span class="ik">::</span> Developed a <span class="gr">blockchain</span> as a research project for <span class="re">COVID-19</span> contact tracing . If two users came         |
+|     <span class="ik">::</span> within a set proximity of one another a token would be generated and transfered between them.         |
+|     <span class="ik">::</span> The number, frequency and variety of coins would be used to quantify a persons risk.                  |
+|     <span class="ik">::</span> Exponential decay models were then used to represent the user <span class="gr">healing</span>. A <span class="gr">tree</span> structure could be      |
+|     <span class="ik">::</span> generated from these results to see the spread of a <span class="re">virus</span> upon a population.                          |
+|     <span class="ik">::</span> This project is still in deveopment and has secured <span class="gr">grant funding</span>.                                    |
+|     <span class="ik">::</span>                                                                                                       |
 :                                                                                                              :
 :______________________________________________________________________________________________________________:
 
@@ -157,11 +150,41 @@
 ││  + <span class="gr">Internship - W.W. Wood Inc.</span>     ( 2019 - Present )                                        ││
 ││                                                                                              ││
 ││    -> Named <span class="gr">lead developer</span> on multiple internal projects. Have worked on webapps that        ││
-││       required the construction of a REST API to consume data from the company               ││
-││       SQL server. Have created algorithms to pair datas that had few common elements.        ││
-││       Have worked on WPF and WinForms for ordering software.                                 ││
+││       required the construction of a <span class="gr">REST API</span> to consume data from the company               ││
+││       <span class="gr">SQL server</span>. Have created algorithms to pair datas that had few common elements.        ││
+││       Have worked on <span class="gr">WPF</span> and <span class="gr">WinForms</span> for ordering software.                                 ││
 ││                                                                                              ││
 └────────────────────────────────────────────────────────────────────────────────┘
+        </pre>
+      </div>
+    </v-row>
+
+    <v-row justify="center">
+      <div class="lpr">
+        <pre class="my" style="line-height: 1em">
+   +== <span class="ye">PORTFOLIO</span> ===========================================================+
+   |                                                                        |
++--|  ~ This is my collection of worthwhile work I am available to show.    |--+
+|<span class="re">\\</span>|    It has been recently uploaded to this account.                      |<span class="re">\\</span>|
+|<span class="re">\\</span>|                                                                        |<span class="re">\\</span>|
+|<span class="re">\\</span>|  ~ <a href="https://github.com/ross-sigil/">Link</a>                                                                |<span class="re">\\</span>|
+|<span class="re">\\</span>|                                                                        |<span class="re">\\</span>|
+|<span class="re">\\</span>+=========================================================== <span class="ye">PORTFOLIO</span> ==+<span class="re">\\</span>|
+|<span class="re">\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\</span>|
+|<span class="re">\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\</span>|
+|<span class="re">\\</span>+== <span class="lgr">DOX</span> =================================================================+<span class="re">\\</span>|
+|<span class="re">\\</span>|                                                                        |<span class="re">\\</span>|
+|<span class="re">\\</span>|  Name:  Ross Dillard                                                   |<span class="re">\\</span>|
+|<span class="re">\\</span>|                                                                        |<span class="re">\\</span>|
+|<span class="re">\\</span>|  Phone: 1-(618)-932-4037                                               |<span class="re">\\</span>|
+|<span class="re">\\</span>|                                                                        |<span class="re">\\</span>|
+|<span class="re">\\</span>|  Email: <a href="mailto:ross@sigil.systems?subject=Your site either got you an interview or spam!">ross@sigil.systems</a>                                             |<span class="re">\\</span>|
+|<span class="re">\\</span>|                                                                        |<span class="re">\\</span>|
+|<span class="re">\\</span>|  Age:   32                                                             |<span class="re">\\</span>|
+|<span class="re">\\</span>|                                                                        |<span class="re">\\</span>|
++--|                                                                        |--+
+   +================================================================= <span class="lgr">DOX</span> ==+
+
         </pre>
       </div>
     </v-row>
@@ -182,7 +205,7 @@
       <div class="pi">
         <pre
           class="my"
-          style="line-height: 1.2em; text-align: center; margin-bottom: -3em"
+          style="line-height: 1.2em; text-align: center; margin-bottom: -1em"
         >
 <span class="ye">Hey, you got to the bottom!</span>
 
