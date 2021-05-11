@@ -143,11 +143,12 @@
 ││                                                                                              ││
 ││    -> I work with a team towards a common, well communicated and understood goal well.       ││
 ││       I've done factory work, I've worked in a record store, I've served restauraunts.       ││
-││       The focus has never changed, listen to people and get them what they want.             ││
+││       Did you know Pizza Hut point of sale systems run on CentOS? The focus has              ││
+││       never changed, <span class="gr">listen</span> to people and get them what they want.                           ││
 ││                                                                                              ││
 ││                                                                                              ││
 ││                                                                                              ││
-││  + <span class="gr">Internship - W.W. Wood Inc.</span>     ( 2019 - Present )                                        ││
+││  + <span class="gr">Internship - W.W. Wood Inc.</span>                                         <span class="ye">( 2019 - Present )</span>    ││
 ││                                                                                              ││
 ││    -> Named <span class="gr">lead developer</span> on multiple internal projects. Have worked on webapps that        ││
 ││       required the construction of a <span class="gr">REST API</span> to consume data from the company               ││
@@ -182,6 +183,10 @@
 |<span class="re">\\</span>|                                                                        |<span class="re">\\</span>|
 |<span class="re">\\</span>|  Age:   32                                                             |<span class="re">\\</span>|
 |<span class="re">\\</span>|                                                                        |<span class="re">\\</span>|
+|<span class="re">\\</span>|                                                                        |<span class="re">\\</span>|
+|<span class="re">\\</span>|  About Me: I love computers. I'm very interested in working with       |<span class="re">\\</span>|
+|<span class="re">\\</span>|            smart-contracts at some point in my career. Old school      |<span class="re">\\</span>|
+|<span class="re">\\</span>|            textmode aesthetics are my jam.                             |<span class="re">\\</span>|
 +--|                                                                        |--+
    +================================================================= <span class="lgr">DOX</span> ==+
 
@@ -205,7 +210,7 @@
       <div class="pi">
         <pre
           class="my"
-          style="line-height: 1.2em; text-align: center; margin-bottom: -1em"
+          style="line-height: 1em; text-align: center; margin-bottom: -0.5em"
         >
 <span class="ye">Hey, you got to the bottom!</span>
 
@@ -214,7 +219,8 @@ You've seen <span class="pr">dark</span> and <span class="ik">light</span> mode 
 But never like <span class="re">this</span>.
 
 <span class="ik">Mess around with the slider below.</span>
-<span class='gr'>|
+
+<span class='pi'>|
 V</span>
         </pre>
       </div>
@@ -228,47 +234,6 @@ V</span>
     </v-row>
   </v-container>
 </template>
-<!-- organize things by when i started learning and when i started getting paid to do it -->
-
-<!-- 
-
-      Languages:
-
-      Python        2016
-      Java          2018
-      C++           2018
-      C#            2019
-      TypeScript    2019
-      Visual Basic  2020
-      C             2020
-      Solidity      2021
-
-
-      College Works:
-        President of AIX (AI Ext) helped explore solutions with using drones to analyze soybean fields using color as a metric for hydration. Other roles for this were communication and orgnizational ability.
-        
-        Developed a blockchain as a research project as a contact tracer for COVID-19. 
-          The idea was that the service would run in the background and if another user came within a proximity determined by gps a token would be generated and transfered from each user.
-          These tokens represent risk and the more a user has the greater their risk, they then use an exponential decay funtion as the user is progressively healed.
-          We could generate a contact tree and organize that tree by risk.
-
-
-      A pile of retail jobs:
-        I work with a team towards a common, well communicated and understood goal well. I've done factory work, ive worked in a record store, i've served restauraunts. The focus has never changed, listen to people and get them what they want.
-
-      Intership"
-      W.W. Wood (2019 - Present)
-
-        Named lead developer on multiple internal projects. Have worked on internal webapps required the construction of a REST API to consume data from the company SQL server.
-        
-
-      A bit about me:
-
-        I love computers. I also love talking to people about them. I am very interested in cryptocurrencies and smart contracts (been following $LINK development since 2017). Nick Szabo's "The God Protocols" are interesting to me. 
-        I've actually 
-
-
-     -->
 
 <style scoped>
 @font-face {
