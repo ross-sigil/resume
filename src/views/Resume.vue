@@ -1,13 +1,5 @@
 <template>
   <v-container>
-    <!-- <v-row justify="center">
-        <v-img
-          :src="require('../assets/sigilSmaller.png')"
-          max-width="322"
-          height="456"
-        />
-      </v-row> -->
-
     <v-row justify="center" style="padding: 2em">
       <v-img
         :src="require('../assets/hireme.png')"
@@ -61,19 +53,21 @@
 /// <span class="ye">TOOLS</span> ///////////////////////////////////////////////////////////
 <span class="ye">¯¯+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯ ¯¯  ¯ ¯   ¯
   |
+  |                                <span class="lpr">Git</span>        <span class="lpr">2017</span>
+  |
   |                                <span class="lpr">Vue</span>        <span class="lpr">2019</span>
   |
-  |                               <span class="lpr">HTML</span>        <span class="lpr">2019</span>
+  |                               <span class="lbl">HTML</span>        <span class="lbl">2019</span>
   |
   |                                <span class="lbl">CSS</span>        <span class="lbl">2019</span>
   |
-  |                                <span class="bl">SQL</span>        <span class="bl">2019</span>
+  |                                <span class="lgr">SQL</span>        <span class="lgr">2019</span>
   |
-  |                                <span class="lgr">WPF</span>        <span class="lgr">2019</span>
+  |                                <span class="lgr">WPF</span>        <span class="lgr">2020</span>
   |
-  |                           <span class="ye">WinForms</span>        <span class="ye">2019</span>
+  |                           <span class="ye">WinForms</span>        <span class="ye">2020</span>
   |
-  |                      <span class="lre">RDLC Wizardry</span>        <span class="lre">2019</span>
+  |                      <span class="lre">RDLC Wizardry</span>        <span class="lre">2020</span>
   |
    \_______________________________________________________________________
 </span>
@@ -103,9 +97,9 @@
 |                                                                                                              |
 | -> <span class="lgr">Significant Work</span>                                                                                          |
 |     <span class="ik">::</span>                                                                                                       |
-|     <span class="ik">::</span> Worked to analyze soybean fields for Mizzou Agricultural Center with Dr. Wei Dai and others.          |
+|     <span class="ik">::</span> Worked to analyze soybean fields for <span class="gr">Mizzou Agricultural Center</span> with Dr. Wei Dai and others.          |
 |     <span class="ik">::</span> Images were taken with drones and analyzed with <span class="gr">machine learning</span> techniques. The <span class="rainbow-text">color</span> of the         |
-|     <span class="ik">::</span> soybeans would determine if <span class="bl">irrigation</span> was needed.                                                    |
+|     <span class="ik">::</span> soybeans would help to determine if <span class="bl">irrigation</span> was needed.                                            |
 |     <span class="ik">::</span>                                                                                                       |
 |     <span class="ik">::</span> Developed a <span class="gr">blockchain</span> as a research project for <span class="re">COVID-19</span> contact tracing . If two users came         |
 |     <span class="ik">::</span> within a set proximity of one another a token would be generated and transfered between them.         |
@@ -131,12 +125,12 @@
 ││                                                                                              ││
 ││    -> I work with a team towards a common, well communicated and understood goal well.       ││
 ││       I've done factory work, I've worked in a record store, I've served restauraunts.       ││
-││       Did you know Pizza Hut point of sale systems run on CentOS? The focus has              ││
-││       never changed, <span class="gr">listen</span> to people and get them what they want.                           ││
+││                 Did you know <span class="pi">Pizza Hut</span> point of sale systems run on <span class="lgr">CentOS</span>?                  ││
+││                                                                                              ││
+││       The focus has never changed, <span class="gr">listen</span> to people and get them what they want.             ││
 ││                                                                                              ││
 ││                                                                                              ││
-││                                                                                              ││
-││  + <span class="gr">Internship - W.W. Wood Inc.</span>                                         <span class="ye">( 2019 - Present )</span>    ││
+││  + <span class="lgr">Internship - W.W. Wood Inc.</span>                                         <span class="ye">( 2019 - Present )</span>    ││
 ││                                                                                              ││
 ││    -> Named <span class="gr">lead developer</span> on multiple internal projects. Have worked on webapps that        ││
 ││       required the construction of a <span class="gr">REST API</span> to consume data from the company               ││
@@ -163,18 +157,17 @@
 |<span class="re">\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\</span>|
 |<span class="re">\\</span>+== <span class="lgr">DOX</span> =================================================================+<span class="re">\\</span>|
 |<span class="re">\\</span>|                                                                        |<span class="re">\\</span>|
-|<span class="re">\\</span>|  Name:  Ross Dillard                                                   |<span class="re">\\</span>|
+|<span class="re">\\</span>|      Name:   Ross Dillard                                              |<span class="re">\\</span>|
 |<span class="re">\\</span>|                                                                        |<span class="re">\\</span>|
-|<span class="re">\\</span>|  Phone: 1-(618)-932-4037                                               |<span class="re">\\</span>|
+|<span class="re">\\</span>|     Phone:   1-(618)-932-4037                                          |<span class="re">\\</span>|
 |<span class="re">\\</span>|                                                                        |<span class="re">\\</span>|
-|<span class="re">\\</span>|  Email: <a href="mailto:ross@sigil.systems?subject=Your site either got you an interview or spam!">ross@sigil.systems</a>                                             |<span class="re">\\</span>|
+|<span class="re">\\</span>|     Email:   <a href="mailto:ross@sigil.systems?subject=Your site either got you an interview or spam!">ross@sigil.systems</a>                                        |<span class="re">\\</span>|
 |<span class="re">\\</span>|                                                                        |<span class="re">\\</span>|
-|<span class="re">\\</span>|  Age:   32                                                             |<span class="re">\\</span>|
+|<span class="re">\\</span>|       Age:   32                                                        |<span class="re">\\</span>|
 |<span class="re">\\</span>|                                                                        |<span class="re">\\</span>|
-|<span class="re">\\</span>|                                                                        |<span class="re">\\</span>|
-|<span class="re">\\</span>|  About Me: I love computers. I'm very interested in working with       |<span class="re">\\</span>|
-|<span class="re">\\</span>|            smart-contracts at some point in my career. Old school      |<span class="re">\\</span>|
-|<span class="re">\\</span>|            textmode aesthetics are my jam.                             |<span class="re">\\</span>|
+|<span class="re">\\</span>|  About Me:   I love computers. I'm very interested in working with     |<span class="re">\\</span>|
+|<span class="re">\\</span>|              smart-contracts at some point in my career. Old school    |<span class="re">\\</span>|
+|<span class="re">\\</span>|              textmode aesthetics are my jam.                           |<span class="re">\\</span>|
 +--|                                                                        |--+
    +================================================================= <span class="lgr">DOX</span> ==+
         </pre>
@@ -228,18 +221,8 @@ V</span>
   src: url(../assets/topazplus500.ttf);
 }
 
-@font-face {
-  font-family: "ps55";
-  src: url(../assets/ps55.ttf);
-}
-
 .my {
   font-family: "TopazPlus", "Lucida Console", monospace, Monaco;
-}
-
-.ps {
-  font-family: "ps55";
-  font-size: 29px;
 }
 
 .rainbow-text {

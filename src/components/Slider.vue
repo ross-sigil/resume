@@ -2,7 +2,7 @@
   <v-flex shrink style="width: 40%">
     <v-slider
       v-model="percentReturn"
-      color="#c1b492"
+      color="#f7fdaf"
       :max="1"
       :min="-1"
       :step="0.01"
