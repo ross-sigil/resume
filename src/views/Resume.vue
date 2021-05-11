@@ -69,6 +69,8 @@
       </div>
     </v-row>
 
+    <!-- add bash scripting, git and some other stuff too -->
+
     <v-row justify="center">
       <div class="pi">
         <pre class="my" style="line-height: 1.2em">
@@ -164,7 +166,6 @@
       </div>
     </v-row>
 
-
     <v-row justify="center">
       <div class="lgr">
         <pre class="my" style="line-height: 1.2em">
@@ -179,26 +180,29 @@
 
     <v-row justify="center">
       <div class="pi">
-        <pre class="my" style="line-height: 1.2em">
+        <pre
+          class="my"
+          style="line-height: 1.2em; text-align: center; margin-bottom: -3em"
+        >
+<span class="ye">Hey, you got to the bottom!</span>
+
 For your patience here's an <span class="rainbow-text">easter egg</span>.
 You've seen <span class="pr">dark</span> and <span class="ik">light</span> mode before.
-        But never like <span class="re">this</span>.
+But never like <span class="re">this</span>.
+
+<span class="ik">Mess around with the slider below.</span>
+<span class='gr'>|
+V</span>
         </pre>
       </div>
     </v-row>
 
-
-
-<!-- dont fill me in, just a placeholder for the elements im making this page out of -->
+    <!-- dont fill me in, just a placeholder for the elements im making this page out of -->
     <v-row justify="center">
       <div class="lbl">
-        <pre class="my" style="line-height: 1.2em">
-          
-        </pre>
+        <pre class="my" style="line-height: 1.2em"></pre>
       </div>
     </v-row>
-
-
   </v-container>
 </template>
 <!-- organize things by when i started learning and when i started getting paid to do it -->
@@ -249,8 +253,18 @@ You've seen <span class="pr">dark</span> and <span class="ik">light</span> mode 
   src: url(../assets/topazplus500.ttf);
 }
 
+@font-face {
+  font-family: "ps55";
+  src: url(../assets/ps55.ttf);
+}
+
 .my {
   font-family: "TopazPlus", "Lucida Console", monospace, Monaco;
+}
+
+.ps {
+  font-family: "ps55";
+  font-size: 29px;
 }
 
 .rainbow-text {
