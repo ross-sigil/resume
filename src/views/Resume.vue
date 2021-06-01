@@ -97,7 +97,7 @@
 |                                                                                                              |
 | -> <span class="lgr">Significant Work</span>                                                                                          |
 |     <span class="ik">::</span>                                                                                                       |
-|     <span class="ik">::</span> Worked to analyze soybean fields for <span class="gr">Mizzou Agricultural Center</span> with Dr. Wei Dai and others.          |
+|     <span class="ik">::</span> Worked to analyze soybean fields for <span class="gr">Fischer Delta Agricultural Center</span> with Dr. Wei Dai and others.   |
 |     <span class="ik">::</span> Images were taken with drones and analyzed with <span class="gr">machine learning</span> techniques. The <span class="rainbow-text">color</span> of the         |
 |     <span class="ik">::</span> soybeans would help to determine if <span class="bl">irrigation</span> was needed.                                            |
 |     <span class="ik">::</span>                                                                                                       |
@@ -130,7 +130,7 @@
 ││       The focus has never changed, <span class="gr">listen</span> to people and get them what they want.             ││
 ││                                                                                              ││
 ││                                                                                              ││
-││  + <span class="lgr">Internship - W.W. Wood Inc.</span>                                         <span class="ye">( 2019 - Present )</span>    ││
+││  + <span class="lgr">W.W. Wood Inc.</span>                                                      <span class="ye">( 2019 - Present )</span>    ││
 ││                                                                                              ││
 ││    -> Named <span class="gr">lead developer</span> on multiple internal projects. Have worked on webapps that        ││
 ││       required the construction of a <span class="gr">REST API</span> to consume data from the company               ││
