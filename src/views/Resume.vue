@@ -157,11 +157,11 @@
 |<span class="re">\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\</span>|
 |<span class="re">\\</span>+== <span class="lgr">DOX</span> =================================================================+<span class="re">\\</span>|
 |<span class="re">\\</span>|                                                                        |<span class="re">\\</span>|
-|<span class="re">\\</span>|      Name:   Ross Dillard                                              |<span class="re">\\</span>|
+|<span class="re">\\</span>|      Name:   0xSumna                                                   |<span class="re">\\</span>|
 |<span class="re">\\</span>|                                                                        |<span class="re">\\</span>|
-|<span class="re">\\</span>|     Phone:   1-(618)-932-4037                                          |<span class="re">\\</span>|
+|<span class="re">\\</span>|     Phone:   [REDACTED]                                                |<span class="re">\\</span>|
 |<span class="re">\\</span>|                                                                        |<span class="re">\\</span>|
-|<span class="re">\\</span>|     Email:   <a href="mailto:ross@sigil.systems?subject=Your site either got you an interview or spam!">ross@sigil.systems</a>                                        |<span class="re">\\</span>|
+|<span class="re">\\</span>|     Email:   <a href="mailto:notes@sigil.systems?subject=Your site either got you an interview or spam!">notes@sigil.systems</a>                                        |<span class="re">\\</span>|
 |<span class="re">\\</span>|                                                                        |<span class="re">\\</span>|
 |<span class="re">\\</span>|       Age:   32                                                        |<span class="re">\\</span>|
 |<span class="re">\\</span>|                                                                        |<span class="re">\\</span>|
